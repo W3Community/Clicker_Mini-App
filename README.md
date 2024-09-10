@@ -1,6 +1,6 @@
-![W3Comm](https://github.com/user-attachments/assets/aebfe48d-2ebc-4478-9852-88338242153b)
+![W3Comm](https://github.com/user-attachments/assets/747b91f5-ddc2-426e-9e8e-ceaa644e0d73)
 
-# Clicker Mini App for TELEGRAM
+# We are developers of Clicker/Mini App for TELEGRAM
 
 Get Your Own Custom or Cloned Clicker Games for Telegram with W3Comm!
 
