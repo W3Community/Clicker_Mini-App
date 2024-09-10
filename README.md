@@ -1,4 +1,4 @@
-![2 (6)](https://github.com/user-attachments/assets/1c83b756-74b8-46a0-94ec-d86d355adf56)
+![W3Comm](https://github.com/user-attachments/assets/aebfe48d-2ebc-4478-9852-88338242153b)
 
 # Clicker Mini App for TELEGRAM
 
