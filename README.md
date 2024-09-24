@@ -20,6 +20,8 @@
 
 **More complex development according to your TOR start from**: $4500
 
+**Evaluation of your TOR takes from 1 to 2 days**
+
 Get Your Own Custom or Cloned Clicker Games for Telegram with W3Comm!
 
 Looking to tap into the popularity of clicker games on Telegram? W3Comm specializes in developing and cloning Clicker Tap Mini Apps for Telegram that captivate users and drive engagement. Whether you're after an original concept or a faithful replica of a hit game, our team has the skills and experience to bring your idea to life.
