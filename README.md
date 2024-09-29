@@ -5,24 +5,14 @@
 ### Our clickers that people tap:
 
 + **Bull Tap**: https://t.me/Bull_Tap_Bot
-  - Price: 5000$
-  - Development time: 30-40 days
 
 + **Y&N**: https://t.me/YNPromobot
-  - Price: 5000$
-  - Development time: 30-40 days
  
 + **Race of Stone**: https://t.me/race_ston_bot
-  - Price: 5000$
-  - Development time: 30-40 days
  
 + **Copy of Notcoin**: https://t.me/klikrgamebot
-  - Price: 2000$
-  - Development time: 7-10 days
 
 + **GTA Clicker**: https://t.me/GTM_SEIZURE_BOT
-  - Price: 2000$
-  - Development time: 10-15 days
 
 **More details**: https://t.me/W3Comm
 
